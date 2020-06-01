@@ -1,0 +1,4 @@
+rootProject.name = 'lp'
+include 'core'
+include 'provider'
+
