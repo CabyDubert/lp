@@ -1,7 +1,7 @@
-package com.lp.dao;
+package com.lp.core.dao;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.lp.entity.User;
+import com.lp.core.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.lp.utils;
+package com.lp.core.utils;
 
 import java.util.HashMap;
 

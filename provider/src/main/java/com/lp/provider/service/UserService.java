@@ -1,8 +1,8 @@
-package com.lp.service;
+package com.lp.provider.service;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.lp.dao.UserMapper;
-import com.lp.entity.User;
+import com.lp.core.dao.UserMapper;
+import com.lp.core.entity.User;
 import org.springframework.stereotype.Service;
 
 @Service

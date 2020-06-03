@@ -1,8 +1,6 @@
-server:
-  port: 8081
 spring:
   profiles:
-    include: druid,mybatisplus
+    include: druid,mybatisPlus
     active: dev
   servlet:
     multipart:

@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ef29f9f-bef1-4045-ad30-7dfaf47d34b3" name="Default Changelist" comment="" />
+    <list default="true" id="7ef29f9f-bef1-4045-ad30-7dfaf47d34b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/core/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/lp/dao/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/lp/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/classes/java/main/com/lp/utils/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build/libs/core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/build/libs/core-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/lp/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/lp/core/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/lp/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/lp/core/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/lp/utils/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/lp/core/utils/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/provider/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build/classes/java/main/com/lp/MainApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build/classes/java/main/com/lp/controller/AuthUserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build/classes/java/main/com/lp/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build/classes/java/main/com/lp/service/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build/libs/provider-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build/resources/main/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/build/resources/main/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build/resources/main/application-plus.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/build/resources/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/lp/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/lp/ProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/lp/controller/AuthUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/lp/provider/controller/AuthUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/src/main/java/com/lp/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/com/lp/provider/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/application-plus.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/resources/application-mybatisPlus.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +90,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ciGAG8IhpTftyx0umlUPoUh4vN" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/provider/src/main/resources" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -84,6 +126,11 @@
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -95,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MainApplication">
+  <component name="RunManager">
     <configuration name="lp:provider [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -115,19 +162,6 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="lp.core.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lp.MainApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="lp.provider.main" />
       <extension name="coverage">
@@ -142,17 +176,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lp.provider.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lp.ProviderApplication" />
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Gradle.lp:provider [build]" />
-      <item itemvalue="Spring Boot.MainApplication" />
+      <item itemvalue="Spring Boot.ProviderApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="Spring Boot.ProviderApplication" />
         <item itemvalue="Spring Boot.MainApplication" />
         <item itemvalue="Gradle.lp:provider [build]" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.23051947" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@69a11e7f" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@69a11e7f" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@575f1a66" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@69a11e7f" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@e28dcc60" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -166,10 +241,26 @@
       <updated>1591003854626</updated>
       <workItem from="1591003855862" duration="3562000" />
       <workItem from="1591007563430" duration="1447000" />
+      <workItem from="1591179061380" duration="1722000" />
+      <workItem from="1591181327921" duration="250000" />
+      <workItem from="1591181588183" duration="767000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

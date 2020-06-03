@@ -1,4 +1,4 @@
-package com.lp.entity;
+package com.lp.core.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;

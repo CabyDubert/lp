@@ -1,7 +1,7 @@
-package com.lp.controller;
+package com.lp.provider.controller;
 
-import com.lp.service.UserService;
-import com.lp.utils.Result;
+import com.lp.provider.service.UserService;
+import com.lp.core.utils.Result;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
