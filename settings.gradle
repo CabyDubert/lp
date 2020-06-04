@@ -1,4 +1,5 @@
 rootProject.name = 'lp'
 include 'core'
 include 'provider'
+include 'consumer'
 

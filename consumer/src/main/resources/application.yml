@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    include: druid,mybatisPlus
+    active: dev
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 200MB
+      max-request-size: 1000MB
