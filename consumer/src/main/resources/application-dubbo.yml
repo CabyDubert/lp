@@ -1,0 +1,13 @@
+dubbo:
+  #指定当前服务
+  application:
+    name: consumer
+  #注册中心
+  registry:
+    protocol: zookeeper
+    address: 192.168.40.44:2181
+  #指定通信规则
+  protocol:
+    name: consumer
+    port: 8020 #暴露服务端口（默认20880，修改端口，不同的服务提供者端口不能重复）
+    threadpool: cached
