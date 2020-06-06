@@ -1,6 +1,6 @@
 spring:
   profiles:
-    include: druid,mybatisPlus
+    include: druid,mybatisPlus,dubbo
     active: dev
   servlet:
     multipart:

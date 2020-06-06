@@ -10,7 +10,7 @@ import java.util.Date;
 
 @Data
 @TableName("sys_user")
-public class User {
+public class User implements java.io.Serializable{
     /**
      * 用户id
      */

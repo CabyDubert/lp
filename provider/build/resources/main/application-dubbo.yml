@@ -5,11 +5,11 @@ dubbo:
   #注册中心
   registry:
     protocol: zookeeper
-    address: 192.168.40.44:2181
+    address: 127.0.0.1:2181
   #指定通信规则
   protocol:
     name: dubbo
-    port: 8010 #暴露服务端口（默认20880，修改端口，不同的服务提供者端口不能重复）
+#    port: 8011 #暴露服务端口（默认20880，修改端口，不同的服务提供者端口不能重复）
     threadpool: cached
   #暴露服务
   provider:
