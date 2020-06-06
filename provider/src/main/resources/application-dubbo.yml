@@ -15,4 +15,4 @@ dubbo:
   provider:
     loadbalance: leastactive
   scan:
-    base-packages: com.lp.provider.service #生产者的包
+    base-packages: com.lp.provider.serviceImpl #生产者的包
