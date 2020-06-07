@@ -14,5 +14,10 @@ dubbo:
   #暴露服务
   provider:
     loadbalance: leastactive
+    timeout: 6000
   scan:
     base-packages: com.lp.provider.serviceImpl #生产者的包
+
+  #监控中心
+  monitor:
+    protocol: registry
