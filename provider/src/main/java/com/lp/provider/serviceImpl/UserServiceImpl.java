@@ -6,7 +6,11 @@ import com.lp.core.entity.User;
 import com.lp.core.service.IUserService;
 import org.apache.dubbo.config.annotation.Service;
 
-@Service(version = "1.0.0")
-public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IUserService {
+import java.util.List;
 
+@Service
+public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IUserService {
+    public List<User> getUserList() {
+        return this.list();
+    }
 }
