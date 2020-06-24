@@ -1,0 +1,11 @@
+spring:
+  redis:
+    host: localhost
+    port: 6379
+    timeout: 5000ms
+    jedis:
+      pool:
+        max-active: 8
+        max-idle: 500
+        max-wait: 1ms
+        te

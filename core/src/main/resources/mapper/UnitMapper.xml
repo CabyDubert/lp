@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lp.core.dao.UserMapper">
+    <cache type="com.huang.utils.RedisCache"
+           eviction="LRU"
+           flushInterval="6000000"
+           size="1024"
+           readOnly="false"/>
+    <resultMap id="BaseResultMap" type="com.lp.core.entity.SysUser">
+        <id column="id" jdbcType="BIGINT" property="id" />
+        <result column="code" jdbcType="VARCHAR" property="code" />
+        <result column="name" jdbcType="VARCHAR" property="name" />
+        <result column="is_enable" jdbcType="BIT" property="isEnable" />
+        <result column="ct" jdbcType="TIMESTAMP" property="ct" />
+        <result column="mt" jdbcType="TIMESTAMP" property="mt" />
+    </resultMap>
+</mapper>
